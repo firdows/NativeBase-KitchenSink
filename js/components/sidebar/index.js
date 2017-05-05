@@ -16,6 +16,12 @@ const drawerImage = require('../../../img/logo-kitchen-sink.png');
 
 const datas = [
   {
+    name: 'Datepicker',
+    route: 'datepicker',
+    icon: 'phone-portrait',
+    bg: '#C5F442',
+  },
+  {
     name: 'Anatomy',
     route: 'anatomy',
     icon: 'phone-portrait',
